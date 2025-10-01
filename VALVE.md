@@ -54,7 +54,7 @@ This document provides all Valve-required information for the VRS application of
   - 3rd place: 1,250 USD  
   - 4th place: 1,250 USD  
 - **Additional logistics support:** 2,500 PLN per team (travel & accommodation allowance)  
-- **Additional prize:** The winning team will also receive five (5) Hisense 55E7Q Pro TVs (one per core player).  
+- **Additional prize:** The winning team will also receive five (5) TV Hisense Miniled 55E8Q (one per core player).  
 
 ---
 
