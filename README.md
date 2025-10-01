@@ -6,7 +6,7 @@ Official repository for the **Game Zone Masters: Road to PGA 2025**, a Tier 2 Va
 - **Game:** Counter-Strike 2  
 - **LAN Finals:** October 24-25, 2025 at Poznań Game Arena (Tier 2, Ranked)  
 - **Prize Pool:** $10,000 USD
-- **Additional prizes:** The winning team will also receive five (5) Hisense 55E7Q Pro TVs (one per player).  
+- **Additional prizes:** The winning team will also receive five (5) TV Hisense Miniled 55E8Q (one per player).  
 - **Operator:** Good Game Sp. z o.o. (Poznań, Poland)
 
 
