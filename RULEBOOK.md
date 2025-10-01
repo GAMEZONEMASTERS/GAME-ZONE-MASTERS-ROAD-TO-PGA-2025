@@ -279,7 +279,7 @@ The Tournament staff responsible for official communication are:
 7.3.4. Taxes will be applied in accordance with Polish law.  
 
 ### 7.4. Additional Prizes
-7.4.1. In addition to the cash prize, the 1st place team will receive five (5) Hisense 55E7Q Pro TVs (one for each core player).
+7.4.1. In addition to the cash prize, the 1st place team will receive five (5) TV Hisense Miniled 55E8Q TVs (one for each core player).
 7.4.2. The additional prizes are awarded per player and cannot be exchanged for cash.
 
 ---
