@@ -34,7 +34,7 @@ The Tournament staff responsible for official communication are:
 | Name             | Role                | Email                      | Discord   |
 |------------------|---------------------|----------------------------|-----------|
 | Łukasz Ganczewski | Tournament Director | l.ganczewski@ggleague.pl  |.prawus    |
-| Marcin Banach    | Head Admin          | Marcin.banachdrist@gmail.com | -         |
+| Marcin Banach    | Head Admin          | Marcin.banachdrist@gmail.com | drixii         |
 | Support          | General Contact     | info@ggleague.pl           | -         |
 
 ### 1.7. Broadcast rights
